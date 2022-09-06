@@ -1,0 +1,3 @@
+Ctrl + Shift + P
+
+ai escolhe Live Server pra abrir o navegador automaticamente.
